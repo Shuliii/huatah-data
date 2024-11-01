@@ -2,25 +2,25 @@
   {
     "type": "NBA",
     "time": "2024-11-01 08:00:00+0800",
-    "match_name": "Grizzlies vs Bucks",
-    "team1": "Grizzlies",
-    "team2": "Bucks",
+    "match_name": "Celtics vs Hornets",
+    "team1": "Celtics",
+    "team2": "Hornets",
     "main_bet_list": [
-      { "name": "Grizzlies Winner", "odds": 2.85 },
-      { "name": "Bucks Winner", "odds": 1.34 }
+      { "name": "Celtics Winner", "odds": 2.85 },
+      { "name": "Hornets Winner", "odds": 1.34 }
     ],
     "more_bet_list": [
-      { "name": "Grizzlies +6", "odds": 1.97 },
-      { "name": "Bucks -6", "odds": 1.91 },
-      { "name": "Grizzlies +6.5", "odds": 1.90 },
-      { "name": "Bucks -6.5", "odds": 1.98 },
-      { "name": "Grizzlies +7", "odds": 1.83 },
-      { "name": "Bucks -7", "odds": 2.05 },
-      { "name": "Over 231.5", "odds": 1.90 },
+      { "name": "Celtics +6", "odds": 1.97 },
+      { "name": "Hornets -6", "odds": 1.91 },
+      { "name": "Celtics +6.5", "odds": 1.9 },
+      { "name": "Hornets -6.5", "odds": 1.98 },
+      { "name": "Celtics +7", "odds": 1.83 },
+      { "name": "Hornets -7", "odds": 2.05 },
+      { "name": "Over 231.5", "odds": 1.9 },
       { "name": "Under 231.5", "odds": 1.96 },
       { "name": "Over 232", "odds": 1.95 },
       { "name": "Under 232", "odds": 1.91 },
-      { "name": "Over 232.5", "odds": 2.00 },
+      { "name": "Over 232.5", "odds": 2.0 },
       { "name": "Under 232.5", "odds": 1.86 }
     ]
   },
@@ -37,7 +37,7 @@
     "more_bet_list": [
       { "name": "Mavs -6", "odds": 1.83 },
       { "name": "Rockets +6", "odds": 2.05 },
-      { "name": "Mavs -6.5", "odds": 1.90 },
+      { "name": "Mavs -6.5", "odds": 1.9 },
       { "name": "Rockets +6.5", "odds": 1.98 },
       { "name": "Mavs -7", "odds": 1.97 },
       { "name": "Rockets +7", "odds": 1.91 },
@@ -143,7 +143,7 @@
       { "name": "Heat +2.5", "odds": 1.87 },
       { "name": "Over 214.5", "odds": 1.85 },
       { "name": "Under 214.5", "odds": 2.01 },
-      { "name": "Over 215", "odds": 1.90 },
+      { "name": "Over 215", "odds": 1.9 },
       { "name": "Under 215", "odds": 1.96 },
       { "name": "Over 215.5", "odds": 1.95 },
       { "name": "Under 215.5", "odds": 1.91 }
@@ -190,7 +190,7 @@
       { "name": "Magic -5", "odds": 1.91 },
       { "name": "Bulls +5", "odds": 1.97 },
       { "name": "Magic -5.5", "odds": 1.98 },
-      { "name": "Bulls +5.5", "odds": 1.90 },
+      { "name": "Bulls +5.5", "odds": 1.9 },
       { "name": "Over 228", "odds": 1.88 },
       { "name": "Under 228", "odds": 1.98 },
       { "name": "Over 228.5", "odds": 1.93 },
@@ -210,7 +210,7 @@
       { "name": "Thunder Winner", "odds": 1.02 }
     ],
     "more_bet_list": [
-      { "name": "Spurs +12", "odds": 2.00 },
+      { "name": "Spurs +12", "odds": 2.0 },
       { "name": "Thunder -12", "odds": 1.88 },
       { "name": "Spurs +12.5", "odds": 1.93 },
       { "name": "Thunder -12.5", "odds": 1.95 },
@@ -235,17 +235,17 @@
       { "name": "Warriors Winner", "odds": 1.67 }
     ],
     "more_bet_list": [
-      { "name": "Pelicans +2.5", "odds": 2.00 },
+      { "name": "Pelicans +2.5", "odds": 2.0 },
       { "name": "Warriors -2.5", "odds": 1.88 },
       { "name": "Pelicans +3", "odds": 1.93 },
       { "name": "Warriors -3", "odds": 1.95 },
       { "name": "Pelicans +3.5", "odds": 1.86 },
       { "name": "Warriors -3.5", "odds": 2.02 },
-      { "name": "Over 219", "odds": 1.90 },
+      { "name": "Over 219", "odds": 1.9 },
       { "name": "Under 219", "odds": 1.96 },
       { "name": "Over 219.5", "odds": 1.95 },
       { "name": "Under 219.5", "odds": 1.91 },
-      { "name": "Over 220", "odds": 2.00 },
+      { "name": "Over 220", "odds": 2.0 },
       { "name": "Under 220", "odds": 1.86 }
     ]
   },
@@ -260,7 +260,7 @@
       { "name": "Clippers Winner", "odds": 0 }
     ],
     "more_bet_list": [
-      { "name": "Trail Blazers +8", "odds": 2.00 },
+      { "name": "Trail Blazers +8", "odds": 2.0 },
       { "name": "Clippers -8", "odds": 1.88 },
       { "name": "Trail Blazers +8.5", "odds": 1.93 },
       { "name": "Clippers -8.5", "odds": 1.95 },
