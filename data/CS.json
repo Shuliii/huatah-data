@@ -1,0 +1,384 @@
+[
+  {
+    "type": "CS",
+    "time": "2024-11-01 16:30:00+0800",
+    "match_name": "Vitality vs Mouz Match",
+    "team1": "Vitality",
+    "team2": "Mouz",
+    "main_bet_list": [
+      { "name": "Vitality Winner", "odds": 1.8 },
+      { "name": "Mouz Winner", "odds": 1.96 }
+    ],
+    "more_bet_list": [
+      { "name": "Over 2.5", "odds": 1.82 },
+      { "name": "Under 2.5", "odds": 1.94 },
+      { "name": "Map score 2-0", "odds": 2.96 },
+      { "name": "Map score 2-1", "odds": 2.81 },
+      { "name": "Map score 0-2", "odds": 3.27 },
+      { "name": "Map score 1-2", "odds": 3.43 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 16:30:00+0800",
+    "match_name": "Vitality vs Mouz Map1",
+    "team1": "Vitality",
+    "team2": "Mouz",
+    "main_bet_list": [
+      { "name": "Vitality Winner", "odds": 1.96 },
+      { "name": "Mouz Winner", "odds": 1.8 }
+    ],
+    "more_bet_list": [
+      { "name": "Vitality -2.5", "odds": 2.47 },
+      { "name": "Mouz +2.5", "odds": 1.52 },
+      { "name": "Vitality +2.5", "odds": 1.72 },
+      { "name": "Mouz -2.5", "odds": 2.04 },
+      { "name": "Vitality +3.5", "odds": 1.51 },
+      { "name": "Mouz -3.5", "odds": 2.4 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 17:00:00+0800",
+    "match_name": "Vitality vs Mouz Map2",
+    "team1": "Vitality",
+    "team2": "Mouz",
+    "main_bet_list": [
+      { "name": "Vitality Winner", "odds": 1.96 },
+      { "name": "Mouz Winner", "odds": 1.8 }
+    ],
+    "more_bet_list": [
+      { "name": "Vitality -2.5", "odds": 2.47 },
+      { "name": "Mouz +2.5", "odds": 1.52 },
+      { "name": "Vitality +2.5", "odds": 1.72 },
+      { "name": "Mouz -2.5", "odds": 2.04 },
+      { "name": "Vitality +3.5", "odds": 1.51 },
+      { "name": "Mouz -3.5", "odds": 2.4 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 17:30:00+0800",
+    "match_name": "Vitality vs Mouz Map3",
+    "team1": "Vitality",
+    "team2": "Mouz",
+    "main_bet_list": [
+      { "name": "Vitality Winner", "odds": 1.96 },
+      { "name": "Mouz Winner", "odds": 1.8 }
+    ],
+    "more_bet_list": [
+      { "name": "Vitality -2.5", "odds": 2.47 },
+      { "name": "Mouz +2.5", "odds": 1.52 },
+      { "name": "Vitality +2.5", "odds": 1.72 },
+      { "name": "Mouz -2.5", "odds": 2.04 },
+      { "name": "Vitality +3.5", "odds": 1.51 },
+      { "name": "Mouz -3.5", "odds": 2.4 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 19:30:00+0800",
+    "match_name": "Spirit vs Faze Match",
+    "team1": "Spirit",
+    "team2": "Faze",
+    "main_bet_list": [
+      { "name": "Spirit Winner", "odds": 1.62 },
+      { "name": "Faze Winner", "odds": 2.21 }
+    ],
+    "more_bet_list": [
+      { "name": "Spirit -1.5", "odds": 2.78 },
+      { "name": "Faze +1.5", "odds": 1.42 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.8 },
+      { "name": "Map score 2-0", "odds": 2.78 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 3.7 },
+      { "name": "Map score 1-2", "odds": 3.43 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 19:30:00+0800",
+    "match_name": "Spirit vs Faze Map1",
+    "team1": "Spirit",
+    "team2": "Faze",
+    "main_bet_list": [
+      { "name": "Spirit Winner", "odds": 1.67 },
+      { "name": "Faze Winner", "odds": 2.17 }
+    ],
+    "more_bet_list": [
+      { "name": "Spirit -3.5", "odds": 2.28 },
+      { "name": "Faze +3.5", "odds": 1.58 },
+      { "name": "Spirit -2.5", "odds": 1.95 },
+      { "name": "Faze +2.5", "odds": 1.81 },
+      { "name": "Spirit +2.5", "odds": 1.48 },
+      { "name": "Faze -2.5", "odds": 2.61 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 20:00:00+0800",
+    "match_name": "Spirit vs Faze Map2",
+    "team1": "Spirit",
+    "team2": "Faze",
+    "main_bet_list": [
+      { "name": "Spirit Winner", "odds": 1.67 },
+      { "name": "Faze Winner", "odds": 2.17 }
+    ],
+    "more_bet_list": [
+      { "name": "Spirit -3.5", "odds": 2.28 },
+      { "name": "Faze +3.5", "odds": 1.58 },
+      { "name": "Spirit -2.5", "odds": 1.95 },
+      { "name": "Faze +2.5", "odds": 1.81 },
+      { "name": "Spirit +2.5", "odds": 1.48 },
+      { "name": "Faze -2.5", "odds": 2.61 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-11-01 20:30:00+0800",
+    "match_name": "Spirit vs Faze Map3",
+    "team1": "Spirit",
+    "team2": "Faze",
+    "main_bet_list": [
+      { "name": "Spirit Winner", "odds": 1.67 },
+      { "name": "Faze Winner", "odds": 2.17 }
+    ],
+    "more_bet_list": [
+      { "name": "Spirit -3.5", "odds": 2.28 },
+      { "name": "Faze +3.5", "odds": 1.58 },
+      { "name": "Spirit -2.5", "odds": 1.95 },
+      { "name": "Faze +2.5", "odds": 1.81 },
+      { "name": "Spirit +2.5", "odds": 1.48 },
+      { "name": "Faze -2.5", "odds": 2.61 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.49 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.98 },
+      { "name": "Over 22.5", "odds": 2.2 },
+      { "name": "Under 22.5", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-31 21:30:00+0800",
+    "match_name": "G2 vs Spirit Match",
+    "team1": "G2",
+    "team2": "Spirit",
+    "main_bet_list": [
+      { "name": "G2 Winner", "odds": 1.81 },
+      { "name": "Spirit Winner", "odds": 1.95 }
+    ],
+    "more_bet_list": [
+      { "name": "G2 -1.5", "odds": 3.22 },
+      { "name": "Spirit +1.5", "odds": 1.33 },
+      { "name": "Over 2.5", "odds": 1.88 },
+      { "name": "Under 2.5", "odds": 1.88 },
+      { "name": "Map score 2-0", "odds": 3.0 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 3.22 },
+      { "name": "Map score 1-2", "odds": 3.38 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-31 21:30:00+0800",
+    "match_name": "G2 vs Spirit Map1",
+    "team1": "G2",
+    "team2": "Spirit",
+    "main_bet_list": [
+      { "name": "G2 Winner", "odds": 1.88 },
+      { "name": "Spirit Winner", "odds": 1.88 }
+    ],
+    "more_bet_list": [
+      { "name": "G2 -3.5", "odds": 2.53 },
+      { "name": "Spirit +3.5", "odds": 1.47 },
+      { "name": "G2 -2.5", "odds": 2.14 },
+      { "name": "Spirit +2.5", "odds": 1.63 },
+      { "name": "G2 +2.5", "odds": 1.57 },
+      { "name": "Spirit -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.49 },
+      { "name": "Under 20.5", "odds": 2.58 },
+      { "name": "Over 21.5", "odds": 1.76 },
+      { "name": "Under 21.5", "odds": 2.0 },
+      { "name": "Over 22.5", "odds": 2.17 },
+      { "name": "Under 22.5", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-31 21:30:00+0800",
+    "match_name": "G2 vs Spirit Map2",
+    "team1": "G2",
+    "team2": "Spirit",
+    "main_bet_list": [
+      { "name": "G2 Winner", "odds": 1.88 },
+      { "name": "Spirit Winner", "odds": 1.88 }
+    ],
+    "more_bet_list": [
+      { "name": "G2 -3.5", "odds": 2.53 },
+      { "name": "Spirit +3.5", "odds": 1.47 },
+      { "name": "G2 -2.5", "odds": 2.14 },
+      { "name": "Spirit +2.5", "odds": 1.63 },
+      { "name": "G2 +2.5", "odds": 1.57 },
+      { "name": "Spirit -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.49 },
+      { "name": "Under 20.5", "odds": 2.58 },
+      { "name": "Over 21.5", "odds": 1.76 },
+      { "name": "Under 21.5", "odds": 2.0 },
+      { "name": "Over 22.5", "odds": 2.17 },
+      { "name": "Under 22.5", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-31 21:30:00+0800",
+    "match_name": "G2 vs Spirit Map3",
+    "team1": "G2",
+    "team2": "Spirit",
+    "main_bet_list": [
+      { "name": "G2 Winner", "odds": 1.88 },
+      { "name": "Spirit Winner", "odds": 1.88 }
+    ],
+    "more_bet_list": [
+      { "name": "G2 -3.5", "odds": 2.53 },
+      { "name": "Spirit +3.5", "odds": 1.47 },
+      { "name": "G2 -2.5", "odds": 2.14 },
+      { "name": "Spirit +2.5", "odds": 1.63 },
+      { "name": "G2 +2.5", "odds": 1.57 },
+      { "name": "Spirit -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.49 },
+      { "name": "Under 20.5", "odds": 2.58 },
+      { "name": "Over 21.5", "odds": 1.76 },
+      { "name": "Under 21.5", "odds": 2.0 },
+      { "name": "Over 22.5", "odds": 2.17 },
+      { "name": "Under 22.5", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-10 00:30:00+0800",
+    "match_name": "Furia vs Navi Match",
+    "team1": "Furia",
+    "team2": "Navi",
+    "main_bet_list": [
+      { "name": "Furia Winner", "odds": 4.33 },
+      { "name": "Navi Winner", "odds": 1.2 }
+    ],
+    "more_bet_list": [
+      { "name": "Furia +1.5", "odds": 1.86 },
+      { "name": "Navi -1.5", "odds": 1.9 },
+      { "name": "Over 2.5", "odds": 2.28 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 8.14 },
+      { "name": "Map score 2-1", "odds": 6.88 },
+      { "name": "Map score 0-2", "odds": 1.8 },
+      { "name": "Map score 1-2", "odds": 3.08 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-10 00:30:00+0800",
+    "match_name": "Furia vs Navi Map1",
+    "team1": "Furia",
+    "team2": "Navi",
+    "main_bet_list": [
+      { "name": "Furia Winner", "odds": 3.38 },
+      { "name": "Navi Winner", "odds": 1.3 }
+    ],
+    "more_bet_list": [
+      { "name": "Furia +3.5", "odds": 2.08 },
+      { "name": "Navi -3.5", "odds": 1.72 },
+      { "name": "Furia +4.5", "odds": 1.8 },
+      { "name": "Navi -4.5", "odds": 1.96 },
+      { "name": "Furia +5.5", "odds": 1.58 },
+      { "name": "Navi -5.5", "odds": 2.28 },
+      { "name": "Over 20.5", "odds": 1.66 },
+      { "name": "Under 20.5", "odds": 2.19 },
+      { "name": "Over 21.5", "odds": 2.01 },
+      { "name": "Under 21.5", "odds": 1.75 },
+      { "name": "Over 22.5", "odds": 2.56 },
+      { "name": "Under 22.5", "odds": 1.46 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-10 00:30:00+0800",
+    "match_name": "Furia vs Navi Map2",
+    "team1": "Furia",
+    "team2": "Navi",
+    "main_bet_list": [
+      { "name": "Furia Winner", "odds": 3.38 },
+      { "name": "Navi Winner", "odds": 1.3 }
+    ],
+    "more_bet_list": [
+      { "name": "Furia +3.5", "odds": 2.08 },
+      { "name": "Navi -3.5", "odds": 1.72 },
+      { "name": "Furia +4.5", "odds": 1.8 },
+      { "name": "Navi -4.5", "odds": 1.96 },
+      { "name": "Furia +5.5", "odds": 1.58 },
+      { "name": "Navi -5.5", "odds": 2.28 },
+      { "name": "Over 20.5", "odds": 1.66 },
+      { "name": "Under 20.5", "odds": 2.19 },
+      { "name": "Over 21.5", "odds": 2.01 },
+      { "name": "Under 21.5", "odds": 1.75 },
+      { "name": "Over 22.5", "odds": 2.56 },
+      { "name": "Under 22.5", "odds": 1.46 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-10-10 00:30:00+0800",
+    "match_name": "Furia vs Navi Map3",
+    "team1": "Furia",
+    "team2": "Navi",
+    "main_bet_list": [
+      { "name": "Furia Winner", "odds": 3.38 },
+      { "name": "Navi Winner", "odds": 1.3 }
+    ],
+    "more_bet_list": [
+      { "name": "Furia +3.5", "odds": 2.08 },
+      { "name": "Navi -3.5", "odds": 1.72 },
+      { "name": "Furia +4.5", "odds": 1.8 },
+      { "name": "Navi -4.5", "odds": 1.96 },
+      { "name": "Furia +5.5", "odds": 1.58 },
+      { "name": "Navi -5.5", "odds": 2.28 },
+      { "name": "Over 20.5", "odds": 1.66 },
+      { "name": "Under 20.5", "odds": 2.19 },
+      { "name": "Over 21.5", "odds": 2.01 },
+      { "name": "Under 21.5", "odds": 1.75 },
+      { "name": "Over 22.5", "odds": 2.56 },
+      { "name": "Under 22.5", "odds": 1.46 }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+services:
+  node:
+    image: node:23-alpine
+    container_name: nodeapp
+    volumes:
+      - ${PWD}:/app/
+    ports:
+      - 8080:8080
+    entrypoint: ["tail", "-f", "/dev/null"]
