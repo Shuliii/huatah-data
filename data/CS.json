@@ -1,192 +1,192 @@
 [
   {
     "type": "CS",
-    "time": "2024-11-01 16:30:00+0800",
-    "match_name": "Vitality vs Mouz Match",
-    "team1": "Vitality",
-    "team2": "Mouz",
+    "time": "2024-11-02 16:30:00+0800",
+    "match_name": "G2 vs Vitality Match",
+    "team1": "G2",
+    "team2": "Vitality",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.8 },
-      { "name": "Mouz Winner", "odds": 1.96 }
+      { "name": "G2 Winner", "odds": 1.75 },
+      { "name": "Vitality Winner", "odds": 2.05 }
     ],
     "more_bet_list": [
-      { "name": "Over 2.5", "odds": 1.82 },
-      { "name": "Under 2.5", "odds": 1.94 },
-      { "name": "Map score 2-0", "odds": 2.96 },
-      { "name": "Map score 2-1", "odds": 2.81 },
-      { "name": "Map score 0-2", "odds": 3.27 },
-      { "name": "Map score 1-2", "odds": 3.43 }
+      { "name": "Over 2.5", "odds": 1.91 },
+      { "name": "Under 2.5", "odds": 1.85 },
+      { "name": "Map score 2-0", "odds": 3.08 },
+      { "name": "Map score 2-1", "odds": 3.43 },
+      { "name": "Map score 0-2", "odds": 3.77 },
+      { "name": "Map score 1-2", "odds": 3.63 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 17:10:00+0800",
-    "match_name": "Vitality vs Mouz Map1",
-    "team1": "Vitality",
-    "team2": "Mouz",
+    "time": "2024-11-02 16:30:00+0800",
+    "match_name": "G2 vs Vitality Map1",
+    "team1": "G2",
+    "team2": "Vitality",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.96 },
-      { "name": "Mouz Winner", "odds": 1.8 }
+      { "name": "G2 Winner", "odds": 1.70 },
+      { "name": "Vitality Winner", "odds": 2.11 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.47 },
-      { "name": "Mouz +2.5", "odds": 1.52 },
-      { "name": "Vitality +2.5", "odds": 1.72 },
-      { "name": "Mouz -2.5", "odds": 2.04 },
-      { "name": "Vitality +3.5", "odds": 1.51 },
-      { "name": "Mouz -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "G2 -3.5", "odds": 2.33 },
+      { "name": "Vitality +3.5", "odds": 1.55 },
+      { "name": "G2 -2.5", "odds": 2.00 },
+      { "name": "Vitality +2.5", "odds": 1.76 },
+      { "name": "G2 +2.5", "odds": 1.50 },
+      { "name": "Vitality -2.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.57 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.88 },
+      { "name": "Under 21.5", "odds": 1.88 },
+      { "name": "Over 22.5", "odds": 2.35 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 17:20:00+0800",
-    "match_name": "Vitality vs Mouz Map2",
-    "team1": "Vitality",
-    "team2": "Mouz",
+    "time": "2024-11-02 17:00:00+0800",
+    "match_name": "G2 vs Vitality Map2",
+    "team1": "G2",
+    "team2": "Vitality",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.96 },
-      { "name": "Mouz Winner", "odds": 1.8 }
+      { "name": "G2 Winner", "odds": 1.70 },
+      { "name": "Vitality Winner", "odds": 2.11 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.47 },
-      { "name": "Mouz +2.5", "odds": 1.52 },
-      { "name": "Vitality +2.5", "odds": 1.72 },
-      { "name": "Mouz -2.5", "odds": 2.04 },
-      { "name": "Vitality +3.5", "odds": 1.51 },
-      { "name": "Mouz -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "G2 -3.5", "odds": 2.33 },
+      { "name": "Vitality +3.5", "odds": 1.55 },
+      { "name": "G2 -2.5", "odds": 2.00 },
+      { "name": "Vitality +2.5", "odds": 1.76 },
+      { "name": "G2 +2.5", "odds": 1.50 },
+      { "name": "Vitality -2.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.57 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.88 },
+      { "name": "Under 21.5", "odds": 1.88 },
+      { "name": "Over 22.5", "odds": 2.35 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 18:00:00+0800",
-    "match_name": "Vitality vs Mouz Map3",
-    "team1": "Vitality",
-    "team2": "Mouz",
+    "time": "2024-11-02 17:30:00+0800",
+    "match_name": "G2 vs Vitality Map3",
+    "team1": "G2",
+    "team2": "Vitality",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.96 },
-      { "name": "Mouz Winner", "odds": 1.8 }
+      { "name": "G2 Winner", "odds": 1.70 },
+      { "name": "Vitality Winner", "odds": 2.11 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.47 },
-      { "name": "Mouz +2.5", "odds": 1.52 },
-      { "name": "Vitality +2.5", "odds": 1.72 },
-      { "name": "Mouz -2.5", "odds": 2.04 },
-      { "name": "Vitality +3.5", "odds": 1.51 },
-      { "name": "Mouz -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "G2 -3.5", "odds": 2.33 },
+      { "name": "Vitality +3.5", "odds": 1.55 },
+      { "name": "G2 -2.5", "odds": 2.00 },
+      { "name": "Vitality +2.5", "odds": 1.76 },
+      { "name": "G2 +2.5", "odds": 1.50 },
+      { "name": "Vitality -2.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.57 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.88 },
+      { "name": "Under 21.5", "odds": 1.88 },
+      { "name": "Over 22.5", "odds": 2.35 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 19:30:00+0800",
-    "match_name": "Spirit vs Faze Match",
-    "team1": "Spirit",
-    "team2": "Faze",
+    "time": "2024-11-02 19:30:00+0800",
+    "match_name": "Astralis vs Spirit Match",
+    "team1": "Astralis",
+    "team2": "Spirit",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.62 },
-      { "name": "Faze Winner", "odds": 2.21 }
+      { "name": "Astralis Winner", "odds": 2.40 },
+      { "name": "Spirit Winner", "odds": 1.55 }
     ],
     "more_bet_list": [
-      { "name": "Spirit -1.5", "odds": 2.78 },
-      { "name": "Faze +1.5", "odds": 1.42 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.7 },
-      { "name": "Map score 1-2", "odds": 3.43 }
+      { "name": "Astralis +1.5", "odds": 1.5 },
+      { "name": "Spirit -1.5", "odds": 2.51 },
+      { "name": "Over 2.5", "odds": 2.09 },
+      { "name": "Under 2.5", "odds": 1.71 },
+      { "name": "Map score 2-0", "odds": 4.84 },
+      { "name": "Map score 2-1", "odds": 4.22 },
+      { "name": "Map score 0-2", "odds": 2.56 },
+      { "name": "Map score 1-2", "odds": 3.17 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 19:30:00+0800",
-    "match_name": "Spirit vs Faze Map1",
-    "team1": "Spirit",
-    "team2": "Faze",
+    "time": "2024-11-02 19:30:00+0800",
+    "match_name": "Astralis vs Spirit Map1",
+    "team1": "Astralis",
+    "team2": "Spirit",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.67 },
-      { "name": "Faze Winner", "odds": 2.17 }
+      { "name": "Astralis Winner", "odds": 2.05 },
+      { "name": "Spirit Winner", "odds": 1.75 }
     ],
     "more_bet_list": [
-      { "name": "Spirit -3.5", "odds": 2.28 },
-      { "name": "Faze +3.5", "odds": 1.58 },
-      { "name": "Spirit -2.5", "odds": 1.95 },
-      { "name": "Faze +2.5", "odds": 1.81 },
-      { "name": "Spirit +2.5", "odds": 1.48 },
-      { "name": "Faze -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "Astralis -2.5", "odds": 2.44 },
+      { "name": "Spirit +2.5", "odds": 1.53 },
+      { "name": "Astralis +2.5", "odds": 1.71 },
+      { "name": "Spirit -2.5", "odds": 2.05 },
+      { "name": "Astralis +3.5", "odds": 1.51 },
+      { "name": "Spirit -3.5", "odds": 2.40 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.83 },
+      { "name": "Under 21.5", "odds": 1.93 },
+      { "name": "Over 22.5", "odds": 2.28 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 20:00:00+0800",
-    "match_name": "Spirit vs Faze Map2",
-    "team1": "Spirit",
-    "team2": "Faze",
+    "time": "2024-11-02 20:00:00+0800",
+    "match_name": "Astralis vs Spirit Map2",
+    "team1": "Astralis",
+    "team2": "Spirit",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.67 },
-      { "name": "Faze Winner", "odds": 2.17 }
+      { "name": "Astralis Winner", "odds": 2.05 },
+      { "name": "Spirit Winner", "odds": 1.75 }
     ],
     "more_bet_list": [
-      { "name": "Spirit -3.5", "odds": 2.28 },
-      { "name": "Faze +3.5", "odds": 1.58 },
-      { "name": "Spirit -2.5", "odds": 1.95 },
-      { "name": "Faze +2.5", "odds": 1.81 },
-      { "name": "Spirit +2.5", "odds": 1.48 },
-      { "name": "Faze -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "Astralis -2.5", "odds": 2.44 },
+      { "name": "Spirit +2.5", "odds": 1.53 },
+      { "name": "Astralis +2.5", "odds": 1.71 },
+      { "name": "Spirit -2.5", "odds": 2.05 },
+      { "name": "Astralis +3.5", "odds": 1.51 },
+      { "name": "Spirit -3.5", "odds": 2.40 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.83 },
+      { "name": "Under 21.5", "odds": 1.93 },
+      { "name": "Over 22.5", "odds": 2.28 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-11-01 20:30:00+0800",
-    "match_name": "Spirit vs Faze Map3",
-    "team1": "Spirit",
-    "team2": "Faze",
+    "time": "2024-11-02 20:30:00+0800",
+    "match_name": "Astralis vs Spirit Map3",
+    "team1": "Astralis",
+    "team2": "Spirit",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.67 },
-      { "name": "Faze Winner", "odds": 2.17 }
+      { "name": "Astralis Winner", "odds": 2.05 },
+      { "name": "Spirit Winner", "odds": 1.75 }
     ],
     "more_bet_list": [
-      { "name": "Spirit -3.5", "odds": 2.28 },
-      { "name": "Faze +3.5", "odds": 1.58 },
-      { "name": "Spirit -2.5", "odds": 1.95 },
-      { "name": "Faze +2.5", "odds": 1.81 },
-      { "name": "Spirit +2.5", "odds": 1.48 },
-      { "name": "Faze -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.49 },
-      { "name": "Over 21.5", "odds": 1.78 },
-      { "name": "Under 21.5", "odds": 1.98 },
-      { "name": "Over 22.5", "odds": 2.2 },
-      { "name": "Under 22.5", "odds": 1.63 }
+      { "name": "Astralis -2.5", "odds": 2.44 },
+      { "name": "Spirit +2.5", "odds": 1.53 },
+      { "name": "Astralis +2.5", "odds": 1.71 },
+      { "name": "Spirit -2.5", "odds": 2.05 },
+      { "name": "Astralis +3.5", "odds": 1.51 },
+      { "name": "Spirit -3.5", "odds": 2.40 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.83 },
+      { "name": "Under 21.5", "odds": 1.93 },
+      { "name": "Over 22.5", "odds": 2.28 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {

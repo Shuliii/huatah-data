@@ -6,7 +6,7 @@ param(
 
 # Build the Docker image
 try {
-    docker build -t ricoharsono/huatah-backend:latest . | Out-String
+    docker build -t ricoharsono/huatah-data:latest . | Out-String
 } catch {
     Write-Host "Docker build failed"
     exit 1
@@ -14,7 +14,7 @@ try {
 
 # Push the Docker image to Docker Hub
 try {
-    docker push ricoharsono/huatah-backend:latest | Out-String
+    docker push ricoharsono/huatah-data:latest | Out-String
 } catch {
     Write-Host "Docker push failed"
     exit 1
@@ -28,7 +28,7 @@ if (-not $checkContext) {
     exit 1
 } else {
     try {
-        kubectl rollout restart deployment huatah-backend-deployment | Out-String
+        kubectl rollout restart deployment huatah-data-deployment | Out-String
     } catch {
         Write-Host "Kubernetes rollout restart failed"
         exit 1
